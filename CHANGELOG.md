@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Build fix for the issue [#7](https://github.com/oguzhnatly/flutter_carplay/issues/7)
+- 
 ## 1.1.0
 
 - Build fix for the issue [#7](https://github.com/oguzhnatly/flutter_carplay/issues/7)
