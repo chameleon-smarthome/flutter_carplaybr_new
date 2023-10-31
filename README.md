@@ -683,6 +683,6 @@ SOFTWARE.
 
 ### Publish
 ```shell
-dart pub publish --dry-run
-dart pub publish
+fvm flutter pub publish --dry-run
+fvm flutter pub publish
 ```
