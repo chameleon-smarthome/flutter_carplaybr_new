@@ -31,7 +31,7 @@ CarPlay apps are built from a fixed set of user interface templates that iOS ren
 
 ## Supports
 
-`flutter_carplay` currently supports:
+`flutter_carplaybr` currently supports:
 
 - [x] Action Sheet Template
 - [x] Alert Template
@@ -203,7 +203,7 @@ Take a look at [this detailed issue reply](https://github.com/oguzhnatly/flutter
 - Import the all classes that you need from just one file:
 
 ```dart
-import 'package:flutter_carplay/flutter_carplay.dart';
+import 'package:flutter_carplaybr/flutter_carplay.dart';
 ```
 
 - Initialize the CarPlay Controllers and set a root template for the CarPlay view hierarchy:

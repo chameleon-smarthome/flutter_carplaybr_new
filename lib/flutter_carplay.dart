@@ -1,5 +1,5 @@
 export "package:flutter_carplay/helpers/enum_utils.dart";
-export 'package:flutter_carplay/constants/constants.dart'
+export 'package:flutter_carplaybr/constants/constants.dart'
     show CPConnectionStatusTypes;
 export "package:flutter_carplay/models/action_sheet/action_sheet_template.dart"
     show CPActionSheetTemplate;
@@ -19,7 +19,7 @@ export "package:flutter_carplay/models/information/information_item.dart"
     show CPInformationItem;
 export "package:flutter_carplay/models/information/information_template.dart"
     show CPInformationTemplate;
-export 'package:flutter_carplay/models/information/information_constants.dart'
+export 'package:flutter_carplaybr/models/information/information_constants.dart'
     show CPInformationTemplateLayout;
 export "package:flutter_carplay/models/list/list_constants.dart"
     show CPListItemAccessoryTypes, CPListItemPlayingIndicatorLocations;
@@ -37,4 +37,4 @@ export "package:flutter_carplay/models/tabbar/tabbar_template.dart"
 export "package:flutter_carplay/models/button/text_button.dart"
     show CPTextButton;
 
-export 'package:flutter_carplay/carplay_worker.dart' show FlutterCarplay;
+export 'package:flutter_carplaybr/carplay_worker.dart' show FlutterCarplay;
