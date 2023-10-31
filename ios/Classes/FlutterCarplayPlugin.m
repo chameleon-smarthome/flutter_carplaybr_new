@@ -1,6 +1,6 @@
 #import "FlutterCarplayPlugin.h"
-#if __has_include(<flutter_carplaybr/flutter_carplay-Swift.h>)
-#import <flutter_carplaybr/flutter_carplay-Swift.h>
+#if __has_include(<flutter_carplay/flutter_carplay-Swift.h>)
+#import <flutter_carplay/flutter_carplay-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.

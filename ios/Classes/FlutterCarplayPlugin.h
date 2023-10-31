@@ -1,4 +1,4 @@
 #import <Flutter/Flutter.h>
 
-@interface FlutterCarplaybrPlugin : NSObject<FlutterPlugin>
+@interface FlutterCarplayPlugin : NSObject<FlutterPlugin>
 @end
