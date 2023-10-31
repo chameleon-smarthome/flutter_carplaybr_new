@@ -203,7 +203,7 @@ Take a look at [this detailed issue reply](https://github.com/Fix-Pay/flutter_ca
 - Import the all classes that you need from just one file:
 
 ```dart
-import 'package:flutter_carplaybr/flutter_carplay.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
 ```
 
 - Initialize the CarPlay Controllers and set a root template for the CarPlay view hierarchy:
@@ -681,7 +681,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-![Flutter CarPlay](https://raw.githubusercontent.com/Fix-Pay/flutter_carplaybr/master/previews/information_template.png)
+![Flutter CarPlay](https://raw.githubusercontent.com/Fix-Pay/flutter_carplaybr/master/previews/aonde_tem_que_mudar_versao.png)
 ### Publish
 ```shell
 fvm flutter pub publish --dry-run

@@ -1,4 +1,4 @@
-import 'package:flutter_carplaybr/flutter_carplay.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
 
 class FlutterCarplayHelper {
   CPListItem? findCPListItem({

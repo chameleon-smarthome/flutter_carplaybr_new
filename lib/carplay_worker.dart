@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter_carplaybr/constants/constants.dart';
 import 'package:flutter_carplaybr/controllers/carplay_controller.dart';
-import 'package:flutter_carplaybr/flutter_carplay.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
 import 'package:flutter_carplaybr/helpers/enum_utils.dart';
 import 'package:flutter_carplaybr/models/alert/alert_template.dart';
 import 'package:flutter_carplaybr/models/grid/grid_template.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_carplaybr/flutter_carplay.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
 import 'package:flutter_carplaybr/helpers/carplay_helper.dart';
 import 'package:flutter_carplaybr/helpers/enum_utils.dart';
 import 'package:flutter_carplaybr/models/alert/alert_action.dart';
