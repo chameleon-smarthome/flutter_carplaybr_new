@@ -1,14 +1,14 @@
 import 'dart:async';
-import 'package:flutter_carplay/constants/constants.dart';
-import 'package:flutter_carplay/controllers/carplay_controller.dart';
-import 'package:flutter_carplay/flutter_carplay.dart';
-import 'package:flutter_carplay/helpers/enum_utils.dart';
-import 'package:flutter_carplay/models/alert/alert_template.dart';
-import 'package:flutter_carplay/models/grid/grid_template.dart';
-import 'package:flutter_carplay/models/information/information_template.dart';
-import 'package:flutter_carplay/models/poi/poi_template.dart';
-import 'package:flutter_carplay/models/tabbar/tabbar_template.dart';
-import 'package:flutter_carplay/constants/private_constants.dart';
+import 'package:flutter_carplaybr/constants/constants.dart';
+import 'package:flutter_carplaybr/controllers/carplay_controller.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
+import 'package:flutter_carplaybr/helpers/enum_utils.dart';
+import 'package:flutter_carplaybr/models/alert/alert_template.dart';
+import 'package:flutter_carplaybr/models/grid/grid_template.dart';
+import 'package:flutter_carplaybr/models/information/information_template.dart';
+import 'package:flutter_carplaybr/models/poi/poi_template.dart';
+import 'package:flutter_carplaybr/models/tabbar/tabbar_template.dart';
+import 'package:flutter_carplaybr/constants/private_constants.dart';
 
 /// An object in order to integrate Apple CarPlay in navigation and
 /// manage all user interface elements appearing on your screens displayed on

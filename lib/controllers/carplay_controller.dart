@@ -1,18 +1,18 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_carplay/flutter_carplay.dart';
-import 'package:flutter_carplay/helpers/carplay_helper.dart';
-import 'package:flutter_carplay/helpers/enum_utils.dart';
-import 'package:flutter_carplay/models/alert/alert_action.dart';
-import 'package:flutter_carplay/models/button/bar_button.dart';
-import 'package:flutter_carplay/models/button/text_button.dart';
-import 'package:flutter_carplay/models/grid/grid_button.dart';
-import 'package:flutter_carplay/models/grid/grid_template.dart';
-import 'package:flutter_carplay/models/list/list_template.dart';
-import 'package:flutter_carplay/models/information/information_template.dart';
-import 'package:flutter_carplay/models/poi/poi.dart';
-import 'package:flutter_carplay/models/poi/poi_template.dart';
-import 'package:flutter_carplay/models/tabbar/tabbar_template.dart';
-import 'package:flutter_carplay/constants/private_constants.dart';
+import 'package:flutter_carplaybr/flutter_carplaybr.dart';
+import 'package:flutter_carplaybr/helpers/carplay_helper.dart';
+import 'package:flutter_carplaybr/helpers/enum_utils.dart';
+import 'package:flutter_carplaybr/models/alert/alert_action.dart';
+import 'package:flutter_carplaybr/models/button/bar_button.dart';
+import 'package:flutter_carplaybr/models/button/text_button.dart';
+import 'package:flutter_carplaybr/models/grid/grid_button.dart';
+import 'package:flutter_carplaybr/models/grid/grid_template.dart';
+import 'package:flutter_carplaybr/models/list/list_template.dart';
+import 'package:flutter_carplaybr/models/information/information_template.dart';
+import 'package:flutter_carplaybr/models/poi/poi.dart';
+import 'package:flutter_carplaybr/models/poi/poi_template.dart';
+import 'package:flutter_carplaybr/models/tabbar/tabbar_template.dart';
+import 'package:flutter_carplaybr/constants/private_constants.dart';
 
 /// [FlutterCarPlayController] is an root object in order to control and communication
 /// system with the Apple CarPlay and native functions.

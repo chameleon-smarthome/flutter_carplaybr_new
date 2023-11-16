@@ -1,5 +1,5 @@
-import 'package:flutter_carplay/models/button/text_button.dart';
-import 'package:flutter_carplay/helpers/enum_utils.dart';
+import 'package:flutter_carplaybr/models/button/text_button.dart';
+import 'package:flutter_carplaybr/helpers/enum_utils.dart';
 import 'information_constants.dart';
 import 'information_item.dart';
 
