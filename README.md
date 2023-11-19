@@ -203,11 +203,7 @@ Take a look at [this detailed issue reply](https://github.com/Fix-Pay/flutter_ca
 - Import the all classes that you need from just one file:
 
 ```dart
-<<<<<<< HEAD
 import 'package:flutter_carplaybr/flutter_carplaybr.dart';
-=======
-import 'package:flutter_carplaybr/flutter_carplay.dart';
->>>>>>> release/v1.2.0
 ```
 
 - Initialize the CarPlay Controllers and set a root template for the CarPlay view hierarchy:
